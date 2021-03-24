@@ -5,6 +5,7 @@
     </p>
     <ul>
       <li>
+        <!-- mandatory  -->
         <input
           @click="required = false"
           v-bind:class="{
